@@ -22,7 +22,8 @@ A simple C++ console application simulating an Air Data Computer (ADC) for aircr
 2. Run the executable 
 3. Follow the menu to input values and display results.
    
-👨‍💻 Author
+## 👨‍💻 Author
+
 Developed by Amr Ashraf
 
 ## Requirements
