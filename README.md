@@ -18,8 +18,8 @@ A simple C++ console application simulating an Air Data Computer (ADC) for aircr
 - Fast I/O for efficient console performance
 
 ## Usage
-1. Compile with a C++ compiler (e.g., `g++ AirDataComputer.cpp -o adc`).
-2. Run the executable (e.g., `./adc`).
+1. Compile with a C++ compiler (e.g., `g++ Air-Data-Computer.cpp -o adc`).
+2. Run the executable 
 3. Follow the menu to input values and display results.
 
 
