@@ -1,7 +1,6 @@
 # Air Data Computer
 
 A simple C++ console application simulating an Air Data Computer (ADC) for aircraft. Calculates key flight parameters using pressure and temperature inputs.
-
 ## Features
 - Computes:
   - Pressure Altitude (ft)
