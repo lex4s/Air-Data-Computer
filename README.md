@@ -15,7 +15,6 @@ A simple C++ console application simulating an Air Data Computer (ADC) for aircr
   - Total Pressure (Pa)
   - Static Temperature (K)
 - Fast I/O for efficient console performance
-
 ## Usage
 1. Compile with a C++ compiler (e.g., `g++ Air-Data-Computer.cpp -o adc`).
 2. Run the executable 
