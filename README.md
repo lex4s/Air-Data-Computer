@@ -8,7 +8,7 @@ A simple C++ console application simulating an Air Data Computer (ADC) for aircr
   - Indicated Airspeed (knots)
   - Equivalent Airspeed (knots)
   - True Airspeed (knots)
-  - Mach Number
+  - Mach Number 
   - Static and Total Temperature (K)
 - Interactive menu for inputting:
   - Static Pressure (Pa)
