@@ -8,7 +8,7 @@ const double G = 9.80665;                 // Gravity (m/s^2)
 const double L = 0.0065;                  // Lapse rate (K/m)
 const double RHO0 = 1.225;                // Sea level density (kg/m^3)
 const double M_PER_S_TO_KNOTS = 1.94384;  // m/s to knots
-const double M_TO_FT = 3.28084;           // Meters to feet
+const double M_TO_FT = 3.28084;           // Meters to feet 
 class AirDataComputer {
    private:
     double staticPressure;
