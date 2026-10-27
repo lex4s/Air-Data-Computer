@@ -6,7 +6,7 @@ A simple C++ console application simulating an Air Data Computer (ADC) for aircr
   - Pressure Altitude (ft)
   - Density Altitude (ft)
   - Indicated Airspeed (knots)
-  - Equivalent Airspeed (knots)
+  - Equivalent Airspeed (knots) 
   - True Airspeed (knots)
   - Mach Number 
   - Static and Total Temperature (K)
